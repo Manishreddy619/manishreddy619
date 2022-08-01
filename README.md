@@ -7,17 +7,13 @@
 
 <!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
-👲I develop cool and responive websites. I graduated from strive school as Full stack javascript developer and also i am master student working on my thesis in micro and nano systems.
-
+👲I develop cool and responive websites.
 <!-- - 🌱 I’m currently learning **Data Structures and Algorithms.** -->
 
 - 👯 I’m looking to collaborate on **OpenSource Projects and looking for new challenges**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
-- 📫 How to reach me **manishreddy916@gmail.com**
-
-- ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
 
